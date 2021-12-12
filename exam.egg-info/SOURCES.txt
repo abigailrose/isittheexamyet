@@ -1,8 +1,0 @@
-setup.py
-exam/exam.py
-exam/wsgi.py
-exam.egg-info/PKG-INFO
-exam.egg-info/SOURCES.txt
-exam.egg-info/dependency_links.txt
-exam.egg-info/requires.txt
-exam.egg-info/top_level.txt
